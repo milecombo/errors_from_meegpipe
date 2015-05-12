@@ -1,0 +1,410 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/slcontrollib] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/fininst/fininst] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/help/toolbox/control/examples] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/bioinfo/biodemos] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/mpc/mpc] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/mpc/mpcdemos] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/mpc/mpcguis] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/mpc/mpcobsolete] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/mpc/mpcutils] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/rtw/targets/shared] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/help/toolbox/dsp/examples] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/bioinfo/bioinfo] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/bioinfo/biolearning] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/bioinfo/microarray] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/bioinfo/mass_spec] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/bioinfo/proteins] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/bioinfo/biomatrices] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/bioinfo/graphtheory] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/target/extensions/processor/tic2000/blks/masks] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/system/fixedpoint] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/dsp/dspdemos] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/fininst/fininstdemos] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/target/extensions/processor/tic6000/tic6000demos/dataclasses] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/control/control] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/control/ctrlguis] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/control/ctrlobsolete] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/control/ctrlutil] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/datafeed/datafeed] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/datafeed/dfgui] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/system/coreblocks] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/target/extensions/processor/tic2000/tic2000demos/dataclasses] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/target/extensions/processor/tic2000/tic2000demos] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/idelink/extensions/iarew] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/idelink/extensions/iarew/blks] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/idelink/extensions/iarew/mdlinfo] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/idelink/extensions/iarew/templates] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/idelink/extensions/wrworkbench] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/idelink/extensions/wrworkbench/mdlinfo] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/idelink/extensions/wrworkbench/registry] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/idelink/extensions/wrworkbench/wrworkbenchblks] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/dsp/vision/matlab/utilities] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/dsp/vision/simulink/utilities] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/dsp/vision/matlab/utilities/mex] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/dsp/vision/simulink/utilities/mex] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/dsp/vision/matlab/utilities/init] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/dsp/vision/matlab/vision] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/dsp/vision/simulink/vision] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/ident/iddemos] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/ident/iddemos/examples] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/dsp/dsp] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/dsp/dsputilities] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/dsp/dsputilities/dspinit] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/dsp/dsputilities/dspmex] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/ident/ident] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/ident/nlident] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/ident/idobsolete] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/ident/idguis] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/ident/idutils] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/ident/idhelp] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/control/ctrldemos] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/target/extensions/processor/tic6000/blks/masks] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/target/extensions/operatingsystem/vxworks/blks] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/target/extensions/operatingsystem/vxworks/blks/mex] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/target/extensions/operatingsystem/vxworks/blks/masks] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/target/extensions/operatingsystem/vxworks/src] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/econ/econ] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/controllib/engine] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/controllib/engine/numerics] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/controllib/engine/options] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/controllib/engine/optim] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/idelink/extensions/iarew/iarewdemos] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/dsp/filterdesign] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/econ/econdemos] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/controllib/requirements] 
+[Warning: Name is nonexistent or not a directory:
+/usr/local/MATLAB/R2014a/toolbox/shared/dsp/hdl] 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of
+its superclasses.] 
+[> In tpc4144506_e79e_4225_a945_ea5784422e02 at 919
+  In run at 63] 
+
+
+(meegpipe) Initializing at host somerenserver.herseninstituut.knaw.nl on account mcolombo ...
+
+(meegpipe) Read meegpipe configuration from /home/mcolombo/m1kCODE/meegpipe_6_5_15/+meegpipe/meegpipe.ini
+
+(meegpipe) Found MATLAB EEGLAB: /usr/local/toolbox/eeglab
+
+(meegpipe) Removed the following paths:
+
+/usr/local/toolbox/eeglab/external/fieldtrip-partial
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/spm8
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/spm8/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/spm8/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/spm8/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/spm8/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/spm8/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/spm8/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/spm8/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/external/spm8/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/compat
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/compat/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/compat/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/compat/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/compat/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/compat/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/compat/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/compat/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/compat/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/test
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/test/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/test/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/test/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/test/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/test/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/test/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/test/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/forward/test/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/new
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/new/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/new/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/new/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/new/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/new/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/new/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/new/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/new/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/test
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/test/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/test/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/test/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/test/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/test/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/test/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/test/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/inverse/test/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/statfun
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/statfun/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/statfun/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/statfun/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/statfun/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/statfun/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/statfun/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/statfun/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/statfun/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/compat
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/compat/.svn
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/compat/.svn/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/compat/.svn/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/compat/.svn/text-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/compat/.svn/tmp
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/compat/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/compat/.svn/tmp/props
+/usr/local/toolbox/eeglab/external/fieldtrip-partial/utilities/compat/.svn/tmp/text-base/usr/local/toolbox/eeglab/functions/octavefunc
+/usr/local/toolbox/eeglab/functions/octavefunc/.svn
+/usr/local/toolbox/eeglab/functions/octavefunc/.svn/prop-base
+/usr/local/toolbox/eeglab/functions/octavefunc/.svn/props
+/usr/local/toolbox/eeglab/functions/octavefunc/.svn/text-base
+/usr/local/toolbox/eeglab/functions/octavefunc/.svn/tmp
+/usr/local/toolbox/eeglab/functions/octavefunc/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/functions/octavefunc/.svn/tmp/props
+/usr/local/toolbox/eeglab/functions/octavefunc/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/functions/octavefunc/optim
+/usr/local/toolbox/eeglab/functions/octavefunc/optim/.svn
+/usr/local/toolbox/eeglab/functions/octavefunc/optim/.svn/prop-base
+/usr/local/toolbox/eeglab/functions/octavefunc/optim/.svn/props
+/usr/local/toolbox/eeglab/functions/octavefunc/optim/.svn/text-base
+/usr/local/toolbox/eeglab/functions/octavefunc/optim/.svn/tmp
+/usr/local/toolbox/eeglab/functions/octavefunc/optim/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/functions/octavefunc/optim/.svn/tmp/props
+/usr/local/toolbox/eeglab/functions/octavefunc/optim/.svn/tmp/text-base
+/usr/local/toolbox/eeglab/functions/octavefunc/signal
+/usr/local/toolbox/eeglab/functions/octavefunc/signal/.svn
+/usr/local/toolbox/eeglab/functions/octavefunc/signal/.svn/prop-base
+/usr/local/toolbox/eeglab/functions/octavefunc/signal/.svn/props
+/usr/local/toolbox/eeglab/functions/octavefunc/signal/.svn/text-base
+/usr/local/toolbox/eeglab/functions/octavefunc/signal/.svn/tmp
+/usr/local/toolbox/eeglab/functions/octavefunc/signal/.svn/tmp/prop-base
+/usr/local/toolbox/eeglab/functions/octavefunc/signal/.svn/tmp/props
+/usr/local/toolbox/eeglab/functions/octavefunc/signal/.svn/tmp/text-base
+
+[Warning: Could not find dependency: matlab fieldtrip
+Get it from: http://fieldtrip.fcdonders.nl/
+Otherwise, meegpipe will miss some functionality] 
+[> In initialize at 44
+  In tpc4144506_e79e_4225_a945_ea5784422e02 at 920
+  In run at 63] 
+[Warning: Could not find dependency: matlab nbt
+Get it from: http://nbtwiki.net/
+Otherwise, meegpipe will miss some functionality] 
+[> In initialize at 44
+  In tpc4144506_e79e_4225_a945_ea5784422e02 at 920
+  In run at 63] 
+(meegpipe) Done with initialization
+
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of
+its superclasses.] 
+[> In initialize at 66
+  In tpc4144506_e79e_4225_a945_ea5784422e02 at 920
+  In run at 63] 
+(dsmp) Running MATLAB 8.3.0.532 (R2014a) under account mcolombo on somerenserver.herseninstituut.knaw.nl ...
+
+(dsmp) Going to run node node-01-physioset_import ...
+
+(dsmp / node-01-physioset_import) Reading first data block of /data2/projects/ssmd-michele/analysis/ssmd_sleep/VICI_sleep/vici_dsmp_150508-165448/vici_0012_eeg_sleep_night2.mff...[done]
+
+(dsmp / node-01-physioset_import) Reading header...[done]
+
+(dsmp / node-01-physioset_import) Reading sensor information...[done]
+
+(dsmp / node-01-physioset_import) Reading events...[done]
+
+(dsmp / node-01-physioset_import) Writing data to /data2/projects/ssmd-michele/analysis/ssmd_sleep/VICI_sleep/vici_dsmp_150508-165448/vici_0012_eeg_sleep_night2.meegpipe/dsmp-56810d_mcolombo_GLNXA64-R2014a/tmp/vici_0012_eeg_sleep_night2.pset... 2% 4% 5% 7% 9%11%13%14%16%18%20%21%23%25%27%29%30%32%34%36%38%39%41%43%45%47%48%50%52%54%56%57%59%61%63%64%66%68%70%72%73%75%77%79%81%82%84%86%88%90%91%93%95%97%98%100%100%
+
+(dsmp / node-01-physioset_import) Generating a physioset object...Mapped /data2/projects/ssmd-michele/analysis/ssmd_sleep/VICI_sleep/vici_dsmp_150508-165448/vici_0012_eeg_sleep_night2.meegpipe/dsmp-56810d_mcolombo_GLNXA64-R2014a/tmp/vici_0012_eeg_sleep_night2.pset into 10 maps
+
+[done]
+
+(dsmp / node-01-physioset_import) Imported dataset 'vici_0012_eeg_sleep_night2' from '/data2/projects/ssmd-michele/analysis/ssmd_sleep/VICI_sleep/vici_dsmp_150508-165448/vici_0012_eeg_sleep_night2.mff'
+
+(dsmp / node-01-physioset_import) Dataset vici_0012_eeg_sleep_night2 has 264 channels and 26541491  samples (26541.5 seconds) ...
+
+icadefs(): Setting display parameters for mono or 8-bit color
+icadefs(): Setting display parameters for mono or 8-bit color
+(dsmp) Finished running node node-01-physioset_import from dsmp ...
+
+(dsmp) Going to run node node-02-filter ...
+
+(dsmp) DataSelector selected 264/264 channels: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 ......
+
+(dsmp) DataSelector selected 26542 (100%) seconds, spanning from second 0.00 to second 26541.49 ...
+
+icadefs(): Setting display parameters for mono or 8-bit color
+icadefs(): Setting display parameters for mono or 8-bit color
+(dsmp / node-02-filter) Copying 'vici_0012_eeg_sleep_night2' -> '/data2/projects/ssmd-michele/analysis/ssmd_sleep/VICI_sleep/vici_dsmp_150508-165448/vici_0012_eeg_sleep_night2.meegpipe/dsmp-56810d_mcolombo_GLNXA64-R2014a/tmp/20150509T044137_be6eb.pset'...Mapped /data2/projects/ssmd-michele/analysis/ssmd_sleep/VICI_sleep/vici_dsmp_150508-165448/vici_0012_eeg_sleep_night2.meegpipe/dsmp-56810d_mcolombo_GLNXA64-R2014a/tmp/20150509T044137_be6eb.pset into 10 maps
+
+[done]
+
+(dsmp / node-02-filter) Filtering 264 channel(s) with filter.lpfilt filter...
+
+(dsmp / node-02-filter) Filtering 264 signals... 0%11%22%32%43%53%64%75%85%96%100%
+
+
+
+(dsmp / node-02-filter) Assigning filtered values to output ...10%20%30%40%50%60%70%80%90%100%[done]
+
+
+
+icadefs(): Setting display parameters for mono or 8-bit color
+icadefs(): Setting display parameters for mono or 8-bit color
+(dsmp) Finished running node node-02-filter from dsmp ...
+
+(dsmp) Going to run node node-03-resample ...
+
+(dsmp) DataSelector selected 264/264 channels: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 ......
+
+(dsmp) DataSelector selected 26542 (100%) seconds, spanning from second 0.00 to second 26541.49 ...
+
+icadefs(): Setting display parameters for mono or 8-bit color
+icadefs(): Setting display parameters for mono or 8-bit color
+(dsmp / node-03-resample) Creating output pointset (vici_0012_eeg_sleep_night2) ...Mapped /data2/projects/ssmd-michele/analysis/ssmd_sleep/VICI_sleep/vici_dsmp_150508-165448/vici_0012_eeg_sleep_night2.meegpipe/dsmp-56810d_mcolombo_GLNXA64-R2014a/node-03-resample/vici_0012_eeg_sleep_night2.pset into 2 maps
+
+[done]
+
+(dsmp / node-03-resample) Decimating by 1/5 (from 1000 Hz to 200.0 Hz)...10%20%30%40%50%60%70%80%90%100%
+
+(dsmp / node-03-resample) Updating physioset properties ... sampling time:ok ... bad samples:ok ... events :ok ... [done]
+
+(dsmp / node-03-resample) Generating a physioset object...[done]
+
+icadefs(): Setting display parameters for mono or 8-bit color
+icadefs(): Setting display parameters for mono or 8-bit color
+(dsmp) Finished running node node-03-resample from dsmp ...
+
+(dsmp) Moving 'vici_0012_eeg_sleep_night2' -> 'vici_0012_eeg_sleep_night2_dsmp'...[done]
+
+icadefs(): Setting display parameters for mono or 8-bit color
+icadefs(): Setting display parameters for mono or 8-bit color
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of
+its superclasses.] 
+[> In tpc4144506_e79e_4225_a945_ea5784422e02 at 926
+  In run at 63] 
